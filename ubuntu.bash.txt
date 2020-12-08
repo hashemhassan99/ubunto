@@ -1,0 +1,6 @@
+//Add read, write and execute to everyone:
+
+hashe@host:/home/user$ chmod ugo+rwx file4
+hashe@host:/home/user$ ls -l file4
+-rwxrwxrwx  1 user user 0 Nov 19 20:13 file4
+hashe@host:/home/user$
